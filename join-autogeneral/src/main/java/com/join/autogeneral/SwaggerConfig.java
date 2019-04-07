@@ -22,7 +22,7 @@ public class SwaggerConfig {
             "Satyaveer Krovvidi", "http://localhost:8080", "satyaveer.krovvidi@gmail.com");
 
     public static final ApiInfo DEFAULT_API_INFO = new ApiInfo(
-            "User Management API", "API to do CRUD operations on User", "1.0",
+            "Auto Gen Management API", "API to do CRUD operations on Auto Gen", "1.0",
             "urn:tos", DEFAULT_CONTACT,
             "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
 
